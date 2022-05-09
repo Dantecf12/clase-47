@@ -1,1 +1,2 @@
-# clase-47
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
